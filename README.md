@@ -6,6 +6,21 @@ This project is designed around the reality of University of the People (UoPeopl
 
 ---
 
+Visual representation of the interactive dashboard built with Streamlit:
+
+## Dashboard Preview
+
+### Main Dashboard
+![Main Dashboard](https://github.com/user-attachments/assets/7fec1d29-c9b2-45f7-9604-45eb0d55384)
+
+### Dataset Overview
+![Dataset](https://github.com/user-attachments/assets/3d4382b8-a853-4e3d-abd1-407483f0516c)
+
+### Prediction Interface
+![Prediction](https://github.com/user-attachments/assets/45ba628e-fe9d-49f2-b27b-0e997ec82a2d)
+
+
+
 ## Overview
 
 This project uses linear regression to model how different factors influence student performance. It goes beyond basic prediction by providing insights and recommendations based on the results.
