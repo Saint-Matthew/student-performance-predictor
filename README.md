@@ -8,10 +8,11 @@ This project is designed around the reality of University of the People (UoPeopl
 
 Visual representation of the interactive dashboard built with Streamlit:
 
+
 ## Dashboard Preview
 
 ### Main Dashboard
-![Main Dashboard](https://github.com/user-attachments/assets/7fec1d29-c9b2-45f7-9604-45eb0d55384)
+![Main Dashboard](https://github.com/user-attachments/assets/f3460e53-c99b-4965-9a54-16fad93ef0c8)
 
 ### Dataset Overview
 ![Dataset](https://github.com/user-attachments/assets/3d4382b8-a853-4e3d-abd1-407483f0516c)
