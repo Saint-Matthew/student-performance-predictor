@@ -62,6 +62,17 @@ student-performance-predictor/
 │── dataset.csv
 │── model.py
 │── main.py
+│── app.py
 │── requirements.txt
 │── predictions.csv
+```
+
+---
+
+## Live Dashboard
+
+Run locally:
+
+```bash
+streamlit run app.py
 ```
